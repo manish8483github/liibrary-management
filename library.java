@@ -28,7 +28,11 @@ public class library {
 
 
         //display updated list
+        System.out.println("updated book list");
+        for(book book2: library){
 
+            System.out.println(book2);
+        }
 
 
     }
