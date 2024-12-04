@@ -10,6 +10,7 @@ public class library {
         library.add(new book("The Catcher in the Rye", "J.D. Salinger"));
         library.add(new book("To Kill a Mockingbird", "Harper Lee"));
         library.add(new book("1984", "George Orwell"));
+        library.add(new book("catch me if you can", "manish"));
 
 
         //display all books
@@ -32,6 +33,8 @@ public class library {
         for(book book2: library){
 
             System.out.println(book2);
+            System.out.println("changes are made");
+
         }
 
 
