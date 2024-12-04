@@ -11,6 +11,7 @@ public class library {
         library.add(new book("To Kill a Mockingbird", "Harper Lee"));
         library.add(new book("1984", "George Orwell"));
         library.add(new book("catch me if you can", "manish"));
+        library.add(new book("black cat","pankaj"));
 
 
         //display all books
